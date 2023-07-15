@@ -1,6 +1,7 @@
 package sort.MergeSort.InPlaceMergeSort;
 /*
 * 自顶向下的原地归并排序
+* 过程:FromTopInplaceMergeSort.png
 * */
 public class FromTopInPlaceMergeSort extends InPlaceMergeSort{
     @Override
